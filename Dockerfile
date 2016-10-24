@@ -1,4 +1,4 @@
-FROM node:6.9.0
+FROM node:boron
 
 MAINTAINER Tomasz Netczuk
 
